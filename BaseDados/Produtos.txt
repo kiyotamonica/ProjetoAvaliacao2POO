@@ -1,0 +1,25 @@
+1
+Trident
+goma de mascar
+2.50
+01/02/2023
+2
+Pacoquinha
+doce a base de amendoim
+1.00
+19/12/2022
+3
+Tortuguita
+chcocolate recheado no formato de tartaruga
+3.00
+01/11/2022
+4
+TicTac
+pastilha flavorizada
+2.00
+05/01/2023
+5
+Coca lata
+refrigerante de cola 
+5.00
+06/07/2022

@@ -1,0 +1,50 @@
+Rua Alexandre Dumas
+1981
+Chácara Santo Antônio
+04717906
+São Paulo
+SP
+Joao
+01/01/1998
+85293795007
+5
+Rua da Prata
+126
+Jardim Santo André
+08390335
+São Paulo
+SP
+Ana
+12/05/2000
+50345728009
+2
+Rua Alessandro Cerchiai
+520
+Cidade Tiradentes
+08471350
+São Paulo
+SP
+Paulo
+13/09/1995
+58637766099
+7
+Rua Luís Atílio Rossi
+33
+Cidade Nitro Operária
+08010440
+São Paulo
+SP
+Carol
+30/01/1997
+66428055007
+4
+Rua Francisco Santo Suosso
+100
+Educandário
+05544060
+São Paulo
+SP
+Caio
+25/02/2001
+51912307014
+1
